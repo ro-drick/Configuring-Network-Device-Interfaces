@@ -12,10 +12,6 @@ This repository contains configurations for a Cisco Packet Tracer exercise where
 - [Task 3: Configure Speed and Duplex Settings](#task-3-configure-speed-and-duplex-settings)
 - [Task 4: Configure Interface Descriptions](#task-4-configure-interface-descriptions)
 - [Task 5: Disable Unused Interfaces](#task-5-disable-unused-interfaces)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## Overview
