@@ -1,6 +1,7 @@
 # Cisco Packet Tracer - Network Interface Configuration Practice
 
 This repository contains configurations for a Cisco Packet Tracer exercise where I configured various network devices such as routers, switches, and PCs. The following tasks were completed as part of the practice exercise:
+<img src="https://github.com/ro-drick/Configuring-interfaces/blob/main/configuring-interfaces.PNG">
 
 ## Table of Contents
 - [Overview](#Overview)
